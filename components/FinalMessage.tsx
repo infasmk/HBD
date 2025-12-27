@@ -17,7 +17,15 @@ const FinalMessage: React.FC = () => {
       </div>
       
       <p className="font-handwriting text-3xl text-slate-700">
-        Made with love, just for you.
+        Happy Birthday, my love 💖
+Three years ago, you became my favorite chapter —
+since then, every day feels warmer because of you.
+Your smile is my peace, your presence my home.
+I’m grateful for us, for what we were,
+what we are, and all that’s still waiting.
+Today I celebrate you —
+and quietly promise to love you even more. ❤️
+Happy Birthday, my forever.
       </p>
     </motion.footer>
   );
